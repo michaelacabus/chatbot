@@ -1,6 +1,7 @@
 // Options the user could type in
 const prompts = [
   ["hi", "hey", "hello", "good morning", "good afternoon"],
+  ["two plus two"],
   ["how are you", "how is life", "how are things"],
   ["what are you doing", "what is going on", "what is up"],
   ["how old are you"],
@@ -31,6 +32,7 @@ const prompts = [
 
 const replies = [
   ["Hello!", "Hi!", "Hey!", "Hi there!","Howdy"],
+  ["four"],
   [
     "Fine... how are you?",
     "Pretty well, how are you?",
